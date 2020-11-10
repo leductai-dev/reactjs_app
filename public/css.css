@@ -1,0 +1,39 @@
+.contain{
+        
+    margin: 50px auto !important;
+ 
+    width: 70%;
+}
+
+input{
+    background-color: red;
+    width: 500px !important;
+}
+h2{
+    text-align: center;
+}
+label{
+    font-weight: bold;
+    display: block;
+}
+textarea{
+    height:  100px;
+}
+#des{
+    width: 500px;
+}
+
+input[type="checkbox"]{
+    width: 10px !important;
+    margin-right: 10px;
+
+}
+.form-checkbox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.check{
+    margin-bottom: 0px;
+}
